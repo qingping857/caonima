@@ -1,11 +1,6 @@
-# 文档链接分享网站
+# Caonima App
 
-## 项目简介
-这是一个允许用户上传文件并生成可访问链接的网站。用户可以方便地分享文档给其他人。
-
-## 技术栈
-- 前端：React 19 + Next.js + Tailwind CSS + shadcn UI
-- 数据库：MongoDB (Sealos cloud平台)
+这是一个使用React Native + Expo + NativeWind构建的移动应用前端项目。
 
 ## 项目结构
 ```
