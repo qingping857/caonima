@@ -5,10 +5,7 @@ import xml.etree.ElementTree as ET
 import time
 import requests
 import json
-from collections import deque
-from threading import Semaphore, Lock
-from queue import Queue
-import signal
+
 
 # 配置日志
 logging.basicConfig(
